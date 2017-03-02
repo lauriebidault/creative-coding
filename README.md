@@ -4,5 +4,7 @@
 <p>Let me know if you have suggestions or considerations for it.</p>
 <a href="http://imgur.com/5sfOhP3"><img src="http://i.imgur.com/5sfOhP3.jpg" title="source: imgur.com" /></a>
 
+<script type="text/javascript" src="monscript.js"></script>
+
 
 
